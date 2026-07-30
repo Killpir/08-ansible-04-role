@@ -50,7 +50,7 @@
 
 1. В старом playbook создал файл requirements.yml с указанным содержимым:
 
-
+![Screenshot_69](img/Screenshot_69.png)
 
 2. Скачал роль с помощью `ansible-galaxy`, появилась директория `roles` с субдиректорией `clickhouse`, в которой находится playbook для установки роли clickhouse.
 
@@ -72,6 +72,6 @@ https://github.com/Killpir/lighthouse-role.git
 
 9. Изменил playbook на использование roles.
 
-10. Выложил playbook в репозиторий. Ссылка на playbook: https://github.com/Killpir/08-ansible-04-role//playbook
+10. Выложил playbook в репозиторий. Ссылка на playbook: [https://github.com/Killpir/08-ansible-04-role/playbook](https://github.com/Killpir/08-ansible-04-role/tree/1cd29e7c638a25047bb8c4f83606700cc9305d8d/playbook)
 
 ---
